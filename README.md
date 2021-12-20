@@ -2,7 +2,7 @@
 
 1.You can merge the pkg files by copying the merge.sh and pkg-merge-x64.exe to the folder containing the pkg files.
 
-2.Then open the terminal then type this command:
+2.Then open the terminal then type this command to give permission to the script:
 
 ```
 chmod +x merge.sh
